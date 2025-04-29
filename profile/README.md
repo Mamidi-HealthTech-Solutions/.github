@@ -1,4 +1,4 @@
-# 🧬 Mamidi HealthTech Solutions
+# 🧬 Mamidi HealthTech Solutions Pvt Ltd
 
 > **Transforming rare disease diagnosis through AI-powered solutions that are faster, more accurate, and affordable.**
 
